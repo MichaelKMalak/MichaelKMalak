@@ -1,9 +1,9 @@
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?raw=true" width="50%">
+<img alt="" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?raw=true" width="50%">
 
 <!--
 ### Hi there 👋
 **MichaelKMalak/MichaelKMalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelKMalak&show_icons=true" alt="MichaelKMalak" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
