@@ -1,3 +1,4 @@
+![](https://github-readme-stats.vercel.app/api?username=michaelkmalak&count_private=true&theme=default&show_icons=true)
 <!--
 <img alt="" src="https://media.giphy.com/media/lvUM7sSwG7JCMqXi9o/giphy.gif" width="40%">
 ### Hi there 👋
