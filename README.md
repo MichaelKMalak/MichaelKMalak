@@ -1,5 +1,5 @@
-<img alt="" src="https://media.giphy.com/media/lvUM7sSwG7JCMqXi9o/giphy.gif" width="40%">
 <!--
+<img alt="" src="https://media.giphy.com/media/lvUM7sSwG7JCMqXi9o/giphy.gif" width="40%">
 ### Hi there 👋
 **MichaelKMalak/MichaelKMalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
