@@ -1,9 +1,5 @@
-### Hi there 👋 I'm Michael
-- 👯 I’m looking to collaborate on open source projects particularly in Flutter.
-- 📫 You can shoot me an email at michaelkmalak@gmail.com
-- ⚡ Fun fact: I’m learning videography, and animations
-
-### 🛠 &nbsp;Tech Stack
+### Hi there 👋
+#### 🛠 &nbsp;Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=Flutter&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=Dart&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=white)&nbsp;
